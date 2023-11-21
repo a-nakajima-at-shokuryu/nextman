@@ -1,5 +1,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+> ## Shacdn + Next.js 13 is HEAVEN | A QUICK GUIDE
+> https://www.youtube.com/watch?v=ABbww4CFQSo&ab_channel=developedbyed
+>
+> thanks for https://developedbyed.com
+
 ## Getting Started
 
 First, run the development server:
